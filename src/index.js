@@ -871,7 +871,7 @@ export default class extends Component {
             {this.renderTitle()}
           </View>
           {showsButtons && this.renderButtons()}
-      <View>
+      </View>
     )
   }
 }
